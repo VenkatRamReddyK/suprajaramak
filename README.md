@@ -1,3 +1,3 @@
 
 
-[Live Url](https://suprajaramak.vercel.app)
+[suprajaramak gender reveal url](https://suprajaramak.vercel.app)
